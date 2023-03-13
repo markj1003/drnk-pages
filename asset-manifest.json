@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.96d681c9.css",
-    "main.js": "/static/js/main.63adea43.js",
-    "static/js/787.21191d21.chunk.js": "/static/js/787.21191d21.chunk.js",
-    "static/media/enner.jpg": "/static/media/enner.d0caaba8c50499c09504.jpg",
-    "static/media/ella.jpg": "/static/media/ella.c8e879ad8329bd39f805.jpg",
-    "static/media/sampleFeedPic.jpg": "/static/media/sampleFeedPic.6d13b022af23aca155a0.jpg",
-    "static/media/sampleFeedEnner.jpg": "/static/media/sampleFeedEnner.2be63094cf54669b3912.jpg",
-    "static/media/ruaridh.jpg": "/static/media/ruaridh.c93c3bfa9e3ca5b0a74e.jpg",
-    "static/media/lang.jpg": "/static/media/lang.79809c772e25d7148f4d.jpg",
-    "static/media/mark.jpg": "/static/media/mark.5e5b195603117b228981.jpg",
-    "static/media/joyal.jpg": "/static/media/joyal.7ad1f656ed9c1a094ce8.jpg",
-    "static/media/defaultRoomPic.svg": "/static/media/defaultRoomPic.dfdb034947f62f4bcc39c1ca6cee1705.svg",
-    "static/media/options.svg": "/static/media/options.2abf4e35bba821f8242df0a0c82e11d0.svg",
-    "static/media/beerLogo.svg": "/static/media/beerLogo.4a419344e277021bc2e428f6efde0a6b.svg",
-    "static/media/beerSVGfade.svg": "/static/media/beerSVGfade.4a419344e277021bc2e428f6efde0a6b.svg",
-    "index.html": "/index.html",
-    "static/media/default_profile.svg": "/static/media/default_profile.f4546671fb7e416c3abfe5d99649429e.svg",
-    "main.96d681c9.css.map": "/static/css/main.96d681c9.css.map",
-    "main.63adea43.js.map": "/static/js/main.63adea43.js.map",
-    "787.21191d21.chunk.js.map": "/static/js/787.21191d21.chunk.js.map"
+    "main.css": "/drnk-pages/static/css/main.96d681c9.css",
+    "main.js": "/drnk-pages/static/js/main.d5da7b04.js",
+    "static/js/787.21191d21.chunk.js": "/drnk-pages/static/js/787.21191d21.chunk.js",
+    "static/media/enner.jpg": "/drnk-pages/static/media/enner.d0caaba8c50499c09504.jpg",
+    "static/media/ella.jpg": "/drnk-pages/static/media/ella.c8e879ad8329bd39f805.jpg",
+    "static/media/sampleFeedPic.jpg": "/drnk-pages/static/media/sampleFeedPic.6d13b022af23aca155a0.jpg",
+    "static/media/sampleFeedEnner.jpg": "/drnk-pages/static/media/sampleFeedEnner.2be63094cf54669b3912.jpg",
+    "static/media/ruaridh.jpg": "/drnk-pages/static/media/ruaridh.c93c3bfa9e3ca5b0a74e.jpg",
+    "static/media/lang.jpg": "/drnk-pages/static/media/lang.79809c772e25d7148f4d.jpg",
+    "static/media/mark.jpg": "/drnk-pages/static/media/mark.5e5b195603117b228981.jpg",
+    "static/media/joyal.jpg": "/drnk-pages/static/media/joyal.7ad1f656ed9c1a094ce8.jpg",
+    "static/media/defaultRoomPic.svg": "/drnk-pages/static/media/defaultRoomPic.dfdb034947f62f4bcc39c1ca6cee1705.svg",
+    "static/media/options.svg": "/drnk-pages/static/media/options.2abf4e35bba821f8242df0a0c82e11d0.svg",
+    "static/media/beerLogo.svg": "/drnk-pages/static/media/beerLogo.4a419344e277021bc2e428f6efde0a6b.svg",
+    "static/media/beerSVGfade.svg": "/drnk-pages/static/media/beerSVGfade.4a419344e277021bc2e428f6efde0a6b.svg",
+    "index.html": "/drnk-pages/index.html",
+    "static/media/default_profile.svg": "/drnk-pages/static/media/default_profile.f4546671fb7e416c3abfe5d99649429e.svg",
+    "main.96d681c9.css.map": "/drnk-pages/static/css/main.96d681c9.css.map",
+    "main.d5da7b04.js.map": "/drnk-pages/static/js/main.d5da7b04.js.map",
+    "787.21191d21.chunk.js.map": "/drnk-pages/static/js/787.21191d21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96d681c9.css",
-    "static/js/main.63adea43.js"
+    "static/js/main.d5da7b04.js"
   ]
 }
