@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/drnk-pages/static/css/main.96d681c9.css",
-    "main.js": "/drnk-pages/static/js/main.c3bfc831.js",
+    "main.js": "/drnk-pages/static/js/main.44c6aed5.js",
     "static/js/787.21191d21.chunk.js": "/drnk-pages/static/js/787.21191d21.chunk.js",
     "static/media/enner.jpg": "/drnk-pages/static/media/enner.d0caaba8c50499c09504.jpg",
     "static/media/ella.jpg": "/drnk-pages/static/media/ella.c8e879ad8329bd39f805.jpg",
@@ -18,11 +18,11 @@
     "index.html": "/drnk-pages/index.html",
     "static/media/default_profile.svg": "/drnk-pages/static/media/default_profile.f4546671fb7e416c3abfe5d99649429e.svg",
     "main.96d681c9.css.map": "/drnk-pages/static/css/main.96d681c9.css.map",
-    "main.c3bfc831.js.map": "/drnk-pages/static/js/main.c3bfc831.js.map",
+    "main.44c6aed5.js.map": "/drnk-pages/static/js/main.44c6aed5.js.map",
     "787.21191d21.chunk.js.map": "/drnk-pages/static/js/787.21191d21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96d681c9.css",
-    "static/js/main.c3bfc831.js"
+    "static/js/main.44c6aed5.js"
   ]
 }
